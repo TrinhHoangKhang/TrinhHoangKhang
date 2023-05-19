@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 <h1 align="center">Hi 👋, I'm Trịnh Hoàng Khang</h1>
 <h3 align="center">Student from HCMUS</h3>
-<img align="right" alt="Coding" width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="270" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **C++, Python, SQL**
 - 💪 Aim to become an AI engineer
